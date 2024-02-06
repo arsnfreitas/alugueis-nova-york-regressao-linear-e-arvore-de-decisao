@@ -1,4 +1,3 @@
-# alugueis-nova-york-regressao-linear-e-arvore-de-decisao
 
 # Projeto de Precificação de aluguéis em Nova York
 
