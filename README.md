@@ -5,7 +5,7 @@ O objetivo do projeto é analisar os dados fornecidos e criar um modelo preditiv
 
 ## Descrição dos Datasets
 
-### O projeto inclui dois datasets
+### O projeto inclui:
 
 **teste_precificacao**: Este dataset é composto por 48894 linhas e 16 colunas de informações (features). Cada linha representa um imóvel usado e a coluna "preco" é a variável a ser prevista.
 
