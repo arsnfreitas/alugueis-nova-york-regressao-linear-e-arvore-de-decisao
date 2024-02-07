@@ -1,7 +1,7 @@
 
 # Projeto de Precificação de aluguéis em Nova York
 
-O objetivo do projeto é analisar os dados fornecidos e criar um modelo preditivo que estime os preços dos carros com base nas informações disponíveis. Isso permitirá definir preços mais competitivos para melhorar o desempenho na área de revenda de automóveis usados.
+O objetivo do projeto é analisar os dados fornecidos e criar um modelo preditivo que estime os preços dos alguéis com base nas informações disponíveis. Isso permitirá definir preços mais competitivos para melhorar o desempenho na área de revenda de automóveis usados.
 
 ## Descrição dos Datasets
 
